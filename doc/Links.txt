@@ -1,0 +1,16 @@
+database schema tool:
+http://dia-installer.de/
+
+foreign collection (ormlite):
+https://github.com/j256/ormlite-jdbc/blob/master/src/test/java/com/j256/ormlite/examples/foreignCollection/ForeignCollectionMain.java
+
+encrypted database:
+http://www.h2database.com/html/features.html#custom_access_mode
+
+l18n:
+http://crunchify.com/java-properties-files-how-to-update-config-properties-file-in-java/
+http://openbook.rheinwerk-verlag.de/javainsel9/javainsel_15_004.htm#mj96ec8d1bc0e71c464c41b370dd1db21b
+https://blog.codecentric.de/2012/01/internationalisierung-mit-java-resourcebundle-und-kompilierabhangigkeiten/ 
+
+logback:
+http://examples.javacodegeeks.com/enterprise-java/logback/logback-configuration-example/
